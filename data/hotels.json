@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "Hotel teste 1",
+    "cityCode": 1032,
+    "cityName": "Porto Seguro",
+    "rooms": [
+      {
+        "roomID": 1,
+        "categoryName": "Standard",
+        "price": {
+          "adult": 200.00,
+          "child": 100.00
+        }
+      }
+    ]
+  }
+]
